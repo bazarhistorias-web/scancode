@@ -4,4 +4,3 @@ beautifulsoup4
 lxml
 pandas
 openpyxl
-urllib3
